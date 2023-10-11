@@ -3,7 +3,7 @@ body{
 }
 
 .box {
-    display: flex;
+    display: absolute;
     width: 400px;
     --angle: 0deg;
     background-color: black;
